@@ -17,7 +17,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v8.0.2',
-    CHANNEL: 'https://t.me/remasterplugin',
+    CHANNEL: 'https://youtube.com/channel/UCZEc4NrALej7RWdg5SmcaIg',
     SESSION: process.env.ELSA_SESSION === undefined ? '' : process.env.ELSA_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
@@ -71,9 +71,8 @@ module.exports = {
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
     BOTCREATOR: "jihadser",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "917012074386-1631435717",
-    SUPPORT3: "919072790587-1635775355",
-    SUPPORT4: "905511384572-1625319286"
+    SUPPORT: "https://youtube.com/channel/UCZEc4NrALej7RWdg5SmcaIg"
+    SUPPORT2: "923076967435-1635775355",
+    SUPPORT3: "923116749171-1625319286"
 };
 
